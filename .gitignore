@@ -71,3 +71,4 @@ DerivedDataCache/*
 *.VC.db
 Plugins/*
 Android_ETC1/*
+*.xcworkspace/*
